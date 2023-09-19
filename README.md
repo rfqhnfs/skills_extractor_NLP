@@ -1,4 +1,4 @@
-# Data Science_101
+# Data Science 101
 
 As an aspiring data scientist, my pursuit extends beyond skill acquisition. I am driven to comprehend the current landscape of job opportunities in this dynamic field. To achieve this, I initiated a project focused on web scraping job postings to conduct an in-depth analysis. The primary objectives are twofold: firstly, to discern the essential criteria for securing a position in this role, and secondly, to identify the requisite skill set demanded by the industry.
 
